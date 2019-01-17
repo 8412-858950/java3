@@ -7,7 +7,7 @@ public class java3 {
 	      this.name = "BeginnersBook.com";
 	   }
 	   public static void main(String[] args) {
-	      Hello obj = new Hello();
+	      hello obj = new Hello();
 	      System.out.println(obj.name);
 	   }
 	}
